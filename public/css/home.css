@@ -82,6 +82,13 @@ html, body {
     background-color: #34ace0;
 }
 
+#intro .img-container {
+    padding: 5%;
+}
+#intro .img-container:hover{
+    padding: 2%;
+}
+
 #intro .intro-holder, .ide-holder {
     padding: 0 5%;
 }
