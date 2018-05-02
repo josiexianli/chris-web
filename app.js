@@ -14,6 +14,14 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
+
+app.get('*', (req, res, next) => {
+    if (req.headers["x-forwarded-proto"] === "https") {
+        return next();
+    }
+    res.redirect("https://" + req.headers.host + req.url);
+});
+
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
