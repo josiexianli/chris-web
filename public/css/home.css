@@ -315,7 +315,7 @@ html, body {
         border: 3px solid transparent;
         border-image-source: linear-gradient(to bottom right, #34ace0, #00001a);
         border-image-slice: 1;
-        border-image-width: 1;
+        /*border-image-width: 1;*/
 
         background: transparent;
     }
