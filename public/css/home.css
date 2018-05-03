@@ -47,6 +47,7 @@ html, body {
 
 #intro {
     padding-top: 5%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.05), black);
 }
 
 #intro .intro-title {
@@ -85,7 +86,8 @@ html, body {
 #intro .img-container {
     padding: 5%;
 }
-#intro .img-container:hover{
+
+#intro .img-container:hover {
     padding: 2%;
 }
 
