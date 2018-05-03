@@ -66,11 +66,6 @@ html, body {
     font-family: 'Source Code Pro', monospace;
 }
 
-#intro {
-    background: black;
-    padding-bottom: 5%;
-}
-
 #intro .resume-btn {
     margin-top: 15px;
     color: #34ace0;
