@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="864cbfa4-faef-4fb0-9922-a8f9c5dfca02" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/chrisyao-profile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/chrisyao-profile.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/home/components/services.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/components/services.ejs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +44,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/docs" />
       <recent name="$PROJECT_DIR$/public/img/service-over" />
       <recent name="$PROJECT_DIR$/public/img/services-icon" />
       <recent name="$PROJECT_DIR$/public/js" />
-      <recent name="$PROJECT_DIR$/public/img/ide" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/docs" />
@@ -86,7 +84,7 @@
       <workItem from="1525221071290" duration="6796000" />
       <workItem from="1525317344929" duration="1067000" />
       <workItem from="1534450969526" duration="466000" />
-      <workItem from="1595219061435" duration="443000" />
+      <workItem from="1595219061435" duration="815000" />
     </task>
     <servers />
   </component>
